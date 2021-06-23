@@ -2,3 +2,9 @@
 tcp.txt
 
 udp.txt
+
+*.flag
+
+firmware/tcpip_udp_test.X/build/
+firmware/tcpip_udp_test.X/debug/
+firmware/tcpip_udp_test.X/dist/
